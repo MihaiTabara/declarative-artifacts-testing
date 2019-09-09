@@ -1,0 +1,4 @@
+public/target.checksums: s3://net-mozaws-prod-delivery-archive/pub/mobile/candidates/66.0-candidates/build2/android-x86_64/en-US/fennec-66.0.en-US.android-x86_64.checksums
+public/target.checksums: s3://net-mozaws-prod-delivery-archive/pub/mobile/candidates/66.0-candidates/build2/beetmover-checksums/android-x86_64/en-US/fennec-66.0.android-x86_64.checksums.beet
+public/target.checksums.asc: s3://net-mozaws-prod-delivery-archive/pub/mobile/candidates/66.0-candidates/build2/android-x86_64/en-US/fennec-66.0.en-US.android-x86_64.checksums.asc
+public/target.checksums.asc: s3://net-mozaws-prod-delivery-archive/pub/mobile/candidates/66.0-candidates/build2/beetmover-checksums/android-x86_64/en-US/fennec-66.0.android-x86_64.checksums.asc

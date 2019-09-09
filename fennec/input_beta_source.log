@@ -1,0 +1,2 @@
+public/build/source.tar.xz: s3://net-mozaws-prod-delivery-archive/pub/mobile/candidates/66.0b13-candidates/build1/source/fennec-66.0b13.source.tar.xz
+public/build/source.tar.xz.asc: s3://net-mozaws-prod-delivery-archive/pub/mobile/candidates/66.0b13-candidates/build1/source/fennec-66.0b13.source.tar.xz.asc

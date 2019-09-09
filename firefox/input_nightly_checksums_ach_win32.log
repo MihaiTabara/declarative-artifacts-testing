@@ -1,0 +1,4 @@
+public/target.checksums: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/2019/03/2019-03-18-13-39-54-mozilla-central-l10n/firefox-68.0a1.ach.win32.checksums
+public/target.checksums: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-68.0a1.ach.win32.checksums
+public/target.checksums.asc: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/2019/03/2019-03-18-13-39-54-mozilla-central-l10n/firefox-68.0a1.ach.win32.checksums.asc
+public/target.checksums.asc: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-68.0a1.ach.win32.checksums.asc

@@ -1,0 +1,2 @@
+public/target-source.checksums: s3://net-mozaws-prod-delivery-archive/pub/mobile/candidates/66.0b13-candidates/build1/beetmover-checksums/source/fennec-66.0b13.checksums.beet
+public/target-source.checksums.asc: s3://net-mozaws-prod-delivery-archive/pub/mobile/candidates/66.0b13-candidates/build1/beetmover-checksums/source/fennec-66.0b13.checksums.asc

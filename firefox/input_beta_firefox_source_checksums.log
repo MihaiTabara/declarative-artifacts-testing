@@ -1,0 +1,2 @@
+public/target-source.checksums: s3://net-mozaws-prod-delivery-firefox/pub/firefox/candidates/67.0b4-candidates/build2/beetmover-checksums/source/firefox-67.0b4.checksums.beet
+public/target-source.checksums.asc: s3://net-mozaws-prod-delivery-firefox/pub/firefox/candidates/67.0b4-candidates/build2/beetmover-checksums/source/firefox-67.0b4.checksums.asc

@@ -1,0 +1,8 @@
+public/build/ach/target.langpack.xpi: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/2019/03/2019-03-18-13-39-54-mozilla-central-l10n/linux-i686/xpi/firefox-68.0a1.ach.langpack.xpi
+public/build/ach/target.langpack.xpi: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/latest-mozilla-central-l10n/linux-i686/xpi/firefox-68.0a1.ach.langpack.xpi
+public/build/ach/target.tar.bz2: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/2019/03/2019-03-18-13-39-54-mozilla-central-l10n/firefox-68.0a1.ach.linux-i686.tar.bz2
+public/build/ach/target.tar.bz2: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-68.0a1.ach.linux-i686.tar.bz2
+public/build/ach/target.tar.bz2.asc: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/2019/03/2019-03-18-13-39-54-mozilla-central-l10n/firefox-68.0a1.ach.linux-i686.tar.bz2.asc
+public/build/ach/target.tar.bz2.asc: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-68.0a1.ach.linux-i686.tar.bz2.asc
+public/build/ach/target.complete.mar: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/2019/03/2019-03-18-13-39-54-mozilla-central-l10n/firefox-68.0a1.ach.linux-i686.complete.mar
+public/build/ach/target.complete.mar: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-68.0a1.ach.linux-i686.complete.mar

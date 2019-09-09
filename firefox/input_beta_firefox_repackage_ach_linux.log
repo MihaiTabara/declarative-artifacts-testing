@@ -1,0 +1,6 @@
+public/build/ach/target.tar.bz2: s3://net-mozaws-prod-delivery-firefox/pub/firefox/candidates/67.0b4-candidates/build2/linux-i686/ach/firefox-67.0b4.tar.bz2
+public/build/ach/target.tar.bz2.asc: s3://net-mozaws-prod-delivery-firefox/pub/firefox/candidates/67.0b4-candidates/build2/linux-i686/ach/firefox-67.0b4.tar.bz2.asc
+public/build/ach/target.complete.mar: s3://net-mozaws-prod-delivery-firefox/pub/firefox/candidates/67.0b4-candidates/build2/update/linux-i686/ach/firefox-67.0b4.complete.mar
+public/build/ach/target-66.0b13.partial.mar: s3://net-mozaws-prod-delivery-firefox/pub/firefox/candidates/67.0b4-candidates/build2/update/linux-i686/ach/firefox-66.0b13-67.0b4.partial.mar
+public/build/ach/target-67.0b3.partial.mar: s3://net-mozaws-prod-delivery-firefox/pub/firefox/candidates/67.0b4-candidates/build2/update/linux-i686/ach/firefox-67.0b3-67.0b4.partial.mar
+public/build/ach/target-66.0b14.partial.mar: s3://net-mozaws-prod-delivery-firefox/pub/firefox/candidates/67.0b4-candidates/build2/update/linux-i686/ach/firefox-66.0b14-67.0b4.partial.mar

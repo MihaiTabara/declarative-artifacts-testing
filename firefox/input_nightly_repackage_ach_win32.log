@@ -1,0 +1,12 @@
+public/build/ach/target.langpack.xpi: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/2019/03/2019-03-18-13-39-54-mozilla-central-l10n/win32/xpi/firefox-68.0a1.ach.langpack.xpi
+public/build/ach/target.langpack.xpi: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/latest-mozilla-central-l10n/win32/xpi/firefox-68.0a1.ach.langpack.xpi
+public/build/ach/target.zip: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/2019/03/2019-03-18-13-39-54-mozilla-central-l10n/firefox-68.0a1.ach.win32.zip
+public/build/ach/target.zip: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-68.0a1.ach.win32.zip
+public/build/ach/target.installer.exe: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/2019/03/2019-03-18-13-39-54-mozilla-central-l10n/firefox-68.0a1.ach.win32.installer.exe
+public/build/ach/target.installer.exe: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-68.0a1.ach.win32.installer.exe
+public/build/ach/target.stub-installer.exe: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/2019/03/2019-03-18-13-39-54-mozilla-central-l10n/Firefox Installer.ach.exe
+public/build/ach/target.stub-installer.exe: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/latest-mozilla-central-l10n/Firefox Installer.ach.exe
+public/build/ach/target.installer.msi: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/2019/03/2019-03-18-13-39-54-mozilla-central-l10n/firefox-68.0a1.ach.win32.installer.msi
+public/build/ach/target.installer.msi: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-68.0a1.ach.win32.installer.msi
+public/build/ach/target.complete.mar: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/2019/03/2019-03-18-13-39-54-mozilla-central-l10n/firefox-68.0a1.ach.win32.complete.mar
+public/build/ach/target.complete.mar: s3://net-mozaws-prod-delivery-firefox/pub/firefox/nightly/latest-mozilla-central-l10n/firefox-68.0a1.ach.win32.complete.mar
