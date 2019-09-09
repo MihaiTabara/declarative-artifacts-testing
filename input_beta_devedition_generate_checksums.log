@@ -1,0 +1,7 @@
+public/build/SHA256SUMMARY: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/SHA256SUMMARY
+public/build/SHA512SUMMARY: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/SHA512SUMMARY
+public/build/KEY: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/KEY
+public/build/SHA256SUMS: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/SHA256SUMS
+public/build/SHA256SUMS.asc: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/SHA256SUMS.asc
+public/build/SHA512SUMS: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/SHA512SUMS
+public/build/SHA512SUMS.asc: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/SHA512SUMS.asc

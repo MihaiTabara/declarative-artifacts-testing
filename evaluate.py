@@ -118,15 +118,23 @@ DEVEDITION_BETA_MAPPING = {
     'input_beta_devedition_repackage_ach_win32': 'beetmover-repackage-ach-win32-devedition-nightly/opt',
     'input_beta_devedition_repackage_ach_win64aarch64': 'beetmover-repackage-ach-win64-aarch64-devedition-nightly/opt',
     'input_beta_devedition_repackage_ach_win64': 'beetmover-repackage-ach-win64-devedition-nightly/opt',
-
     'input_beta_devedition_repackage_linux': 'beetmover-repackage-linux-devedition-nightly/opt',
     'input_beta_devedition_repackage_linux64': 'beetmover-repackage-linux64-devedition-nightly/opt',
     'input_beta_devedition_repackage_macosx': 'beetmover-repackage-macosx64-devedition-nightly/opt',
     'input_beta_devedition_repackage_win32': 'beetmover-repackage-win32-devedition-nightly/opt',
     'input_beta_devedition_repackage_win64aarch64': 'beetmover-repackage-win64-aarch64-devedition-nightly/opt',
     'input_beta_devedition_repackage_win64': 'beetmover-repackage-win64-devedition-nightly/opt',
-
     'input_beta_devedition_source': 'beetmover-source-devedition-source/opt',
+    'input_beta_devedition_source_checksums': 'release-beetmover-source-checksums-devedition-source/opt',
+    'input_beta_devedition_generate_checksums': 'release-generate-checksums-devedition-beetmover',
+    'input_beta_devedition_signed_langpacks_linux': 'release-beetmover-signed-langpacks-linux-devedition-nightly/opt',
+    'input_beta_devedition_signed_langpacks_l10n_linux': 'release-beetmover-signed-langpacks-linux-devedition-nightly-1/opt',
+    'input_beta_devedition_signed_langpacks_macosx': 'release-beetmover-signed-langpacks-macosx64-devedition-nightly/opt',
+    'input_beta_devedition_signed_langpacks_l10n_macosx': 'release-beetmover-signed-langpacks-macosx64-devedition-nightly-1/opt',
+    'input_beta_devedition_signed_langpacks_win32': 'release-beetmover-signed-langpacks-win32-devedition-nightly/opt',
+    'input_beta_devedition_signed_langpacks_l10n_win32': 'release-beetmover-signed-langpacks-win32-devedition-nightly-1/opt',
+    'input_beta_devedition_signed_langpacks_win64': 'release-beetmover-signed-langpacks-win64-devedition-nightly/opt',
+    'input_beta_devedition_signed_langpacks_l10n_win64': 'release-beetmover-signed-langpacks-win64-devedition-nightly-1/opt',
 }
 
 
