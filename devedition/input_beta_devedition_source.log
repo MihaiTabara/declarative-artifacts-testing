@@ -1,0 +1,2 @@
+public/build/source.tar.xz: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/source/firefox-70.0b4.source.tar.xz
+public/build/source.tar.xz.asc: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/source/firefox-70.0b4.source.tar.xz.asc

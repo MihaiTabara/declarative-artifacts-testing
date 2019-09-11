@@ -1,0 +1,5 @@
+public/build/ach/target.langpack.xpi: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/linux-i686/xpi/ach.xpi
+public/build/af/target.langpack.xpi: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/linux-i686/xpi/af.xpi
+public/build/an/target.langpack.xpi: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/linux-i686/xpi/an.xpi
+public/build/ar/target.langpack.xpi: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/linux-i686/xpi/ar.xpi
+public/build/ast/target.langpack.xpi: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/linux-i686/xpi/ast.xpi

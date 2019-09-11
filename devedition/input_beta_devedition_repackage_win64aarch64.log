@@ -1,0 +1,24 @@
+public/build/buildhub.json: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/buildhub.json
+public/build/target.common.tests.tar.gz: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.common.tests.tar.gz
+public/build/target.cppunittest.tests.tar.gz: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.cppunittest.tests.tar.gz
+public/build/target.crashreporter-symbols.zip: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.crashreporter-symbols.zip
+public/build/target.json: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.json
+public/build/target.mochitest.tests.tar.gz: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.mochitest.tests.tar.gz
+public/build/target.mozinfo.json: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.mozinfo.json
+public/build/target.reftest.tests.tar.gz: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.reftest.tests.tar.gz
+public/build/target.talos.tests.tar.gz: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.talos.tests.tar.gz
+public/build/target.awsy.tests.tar.gz: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.awsy.tests.tar.gz
+public/build/target.test_packages.json: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.test_packages.json
+public/build/target.web-platform.tests.tar.gz: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.web-platform.tests.tar.gz
+public/build/target.xpcshell.tests.tar.gz: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.xpcshell.tests.tar.gz
+public/build/target_info.txt: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64_aarch64_info.txt
+public/build/target.jsshell.zip: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/jsshell/jsshell-win64-aarch64.zip
+public/build/mozharness.zip: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/mozharness.zip
+public/build/host/bin/mar.exe: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/mar-tools/win64-aarch64-devedition/mar.exe
+public/build/host/bin/mbsdiff.exe: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/mar-tools/win64-aarch64-devedition/mbsdiff.exe
+public/build/target.zip: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/firefox-70.0b4.zip
+public/build/target.installer.exe: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/win64-aarch64/en-US/Firefox Setup 70.0b4.exe
+public/build/target.complete.mar: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/update/win64-aarch64/en-US/firefox-70.0b4.complete.mar
+public/build/target-70.0b2.partial.mar: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/update/win64-aarch64/en-US/firefox-70.0b2-70.0b4.partial.mar
+public/build/target-70.0b1.partial.mar: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/update/win64-aarch64/en-US/firefox-70.0b1-70.0b4.partial.mar
+public/build/target-70.0b3.partial.mar: s3://net-mozaws-prod-delivery-archive/pub/devedition/candidates/70.0b4-candidates/build1/update/win64-aarch64/en-US/firefox-70.0b3-70.0b4.partial.mar
